@@ -1,2 +1,2 @@
 # zdelta.github.io
-simple web site
+Simple navigation website
